@@ -1,0 +1,6 @@
+{
+  "name": "CineGen AI",
+  "description": "Crea videos cinematográficos con IA generativa, edición por comandos de voz, postproducción automatizada y avatares con movimiento 100% gratis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
